@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>formularios</title>
+</head>
+<body>
+    <H1>formulários</H1>
+    <form>
+        <imput type="text" aria-placeholder="seu nome"  />
+        <br />
+        <label> "DIGITE SEU EMAIL <label>
+        <imput> "mail"mail" </imput>
+        <br />
+        <input type="text"> seu numero de telefone=" 985703307" <br>/>
+        <input  type="number" max="10"  min="2" step="2"    />
+        <input type="file"  /> <br/>
+        <input type="color"     />  <br/>
+        <input type="checkbox" id="termos" /> <label for="aceito os termos"></label>
+        <p
+            qual sua cor favorita? >
+        </p>
+        <input type="radio" />  <form name="cor vermelho"> vermelho</form>
+        <input type="radio" />   <form name="cor verde"> verde</form>
+        <input type="radio" />   <form name="cor azul"> azul</form>
+        <label> qual seu filme favorito </label>
+        <select multiple>
+            <option> filme A</option>
+            <option> filme B</option>
+            <option> filme c </option>
+        </select>
+        <br />
+        <textarea>>           </textarea>
+        <button> enviar 
+        <button> limpar
+        </button>
+
+        
+        
+        </body>
+
+</html>
