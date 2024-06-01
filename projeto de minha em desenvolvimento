@@ -1,0 +1,89 @@
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu portal de notícias</title>
+    <link rel="stylesheet" href=".index.css" />
+</head>
+<body>
+    <header>
+        <div class="conteiner"           
+            <h1>atentimento com ivana maria biondo zanuz</h1>
+            <nav>
+                <ul>
+                    <li>
+                        
+                        <a href="assitencia psicosocial" title="Ir para a seção de terapia psicosocial">terapia psicosocial sem tabús</a>
+                    </li>
+                    <li>
+                        <a href="#terapia" title="Ir para a seção de notícias">terapia</a>
+                    </li>
+                </ul>
+            </nav>
+        </div class="conteiner"
+    </header>
+    <section ></section>
+    <selection id="container" casos de conflito></selection>
+            <div class="conteiner"></div>
+            <article>
+                <img src="vana.jpeg" alt="especialiações" />
+                <header>
+                </header>
+                <h3>posso lhe ajudar em qualquer campo/area de sua vida </h3>
+                <p>
+                    sou formada em psicologia e tratamento de dependentes quimicos 
+                    com acompanhamento!
+                </p>
+                <a href="#" title="Leia a notícia completa">Mude de vida</a>
+            </article>
+            <img src="cartao vana.jpg" />
+            <header>
+            </header>
+            <h3>problemas pessoais</h3>
+            <p>
+                podemos resolvelos juntos!.
+            </p>
+            <a href="#" title="venha me contactar">ainda existe saida</a>
+        </article>
+        
+            <img src="terapeuta do zero frente.png" title="expecializações" />
+            <header>
+            </header>
+            <h3>tenho varios tipos de conhecimentos diversos em diferentes casos</h3>
+            <p>
+                meu vasto conhecimento é de uma longa historia de ajuda e poder socorrer os outros!
+            </p>
+        </article>
+        
+            <img src="dependencia quimica verso.png">
+            <header>
+            </header>
+            <h3>PARA A DEPRESSÃO ANSIEDADE RUMO A TOMAR, TODO UM TRATAMENTO PSICOLOGICO.</h3>
+            <p>
+                Como terapeuta estarei disponivel para qualquer situação envolvida com o bem estar humano.
+            </p>
+        </article>
+    </section>
+    <section>
+        <h2>Luto, divorcios, qualquer dificuldade me contate</h2>
+        
+            <img src="verso neurobiologia.png" alt="cursos preparados para oque der!" />
+            <header>
+            </header>
+        <article>
+        
+            <img src="whatsapp png.jpeg" alt="whatsapp" />
+            <header>
+            <article></header>
+            <p>
+            TENHO UMA GAMA DE CURSOS PROFISSIONAIS PARA ATENDER SEU PEDIDO!
+            </p>
+            <h4> whatsapp
+                Instagram
+            </h4>
+            
+<body>
+
+</body>
+</html>
