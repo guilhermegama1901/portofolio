@@ -1,0 +1,12 @@
+> function calculaArea(base, altura) {
+
+   altura = typeof altura !== 'undefined' ? altura : 5;
+
+   return base*altura;
+
+}
+
+>  calculaArea(5)
+
+    25
+
